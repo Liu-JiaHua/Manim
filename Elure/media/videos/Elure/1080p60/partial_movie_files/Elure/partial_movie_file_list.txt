@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:E:/manim_python/Elure/media/videos/Elure/1080p60/partial_movie_files/Elure/3977891868_934859232_2806990668.mp4'
+file 'file:E:/manim_python/Elure/media/videos/Elure/1080p60/partial_movie_files/Elure/2852726489_3636024140_4232125236.mp4'
+file 'file:E:/manim_python/Elure/media/videos/Elure/1080p60/partial_movie_files/Elure/2852726489_2748934354_1122542730.mp4'

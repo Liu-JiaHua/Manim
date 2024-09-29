@@ -1,4 +1,11 @@
-/.vscode
-/.idea
-/Function/media
-/Function/__pycache__
+__pycache__/
+media/
+*.pyc
+audio/
+*.aux
+*.log
+*.synctex.gz
+# *.tex
+*.toc
+*.out
+*.mp4
